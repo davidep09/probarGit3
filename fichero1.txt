@@ -1,1 +1,2 @@
 Este texto se guardará en el commit 1.
+Este texto se guardará en el commit 2.
